@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Jason Best 👋
 
-<!--
-**jason-best/jason-best** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Salesforce Engineer, Architect, and the Founder of **[Three Levers](https://threelevers.com)**. 
 
-Here are some ideas to get you started:
+I specialize in building creative, cost-conscious Salesforce solutions for mission-driven organizations and businesses. I believe in solving real-world platform limitations with clean code, open-source utilities, and a path toward owning your own org.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Featured Open-Source Projects
+
+* **[Lightning Flow iFrame](https://github.com/jason-best/lightning-flow-iframe)** - Dynamic iFrame embedding for Salesforce Lightning Flows on external websites and WordPress with automatic height adjustment and query string parsing.
+
+---
+
+### 📈 What I Do at Three Levers
+
+When standard Salesforce configurations hit a wall, I build the bridge. My consulting focus includes:
+* **Custom Salesforce Engineering:** Apex, LWC, Visualforce, and complex Flow architectures.
+* **External Integrations:** Securely connecting Salesforce to WordPress, web apps, and third-party APIs.
+* **Technical Architecture Audits:** Identifying technical debt and creating lean, scalable system roadmaps.
+
+---
+
+### 🤝 Let's Collaborate
+
+Are you stuck on a complex Salesforce requirement, experiencing iFrame/security headaches, or looking to scale your implementation cleanly? 
+
+* 🌐 **Learn More:** [threelevers.com](https://threelevers.com)
+* 💬 **Let's Talk:** [Book a Consultation](https://threelevers.com/contact) (or swap out with your direct calendar link)
+* 📬 **Connect on LinkedIn:** [Your LinkedIn URL]
