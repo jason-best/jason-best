@@ -26,5 +26,5 @@ When standard Salesforce configurations hit a wall, I build the bridge. My consu
 Are you stuck on a complex Salesforce requirement, experiencing iFrame/security headaches, or looking to scale your implementation cleanly? 
 
 * 🌐 **Learn More:** [threelevers.com](https://threelevers.com)
-* 💬 **Let's Talk:** [Book a Consultation](https://threelevers.com/contact) (or swap out with your direct calendar link)
-* 📬 **Connect on LinkedIn:** [Your LinkedIn URL]
+* 💬 **Let's Talk:** [Book a Consultation](https://threelevers.com/contact) 
+* 📬 **Connect on LinkedIn:** [LinedIn](https://www.linkedin.com/in/jasonbest-salesforce/)]
